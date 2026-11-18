@@ -6,12 +6,13 @@ Community AI Lab is an early-stage, community-built AI research project. We take
 
 **Do not open a public GitHub issue with vulnerability details, credentials, private recordings, personal information or exploit instructions.**
 
-Please use GitHub's **Report a vulnerability** feature from the relevant repository's **Security → Advisories** tab when private vulnerability reporting is enabled:
+Use **Report a vulnerability** on the relevant repository's **Security → Advisories** page:
 
 - [Contributor Platform security advisories](https://github.com/Community-AI-Lab/platform/security/advisories)
 - [Speech-to-Speech Model security advisories](https://github.com/Community-AI-Lab/speech-to-speech/security/advisories)
+- [Organisation configuration security advisories](https://github.com/Community-AI-Lab/.github/security/advisories)
 
-If the **Report a vulnerability** option is not visible, private reporting has not yet been enabled. Please ask a repository maintainer to arrange a private contact method **without sharing sensitive details in public**. The organisation should enable private vulnerability reporting in both repositories before inviting general security reports.
+If you can't access the private reporting form, ask a repository maintainer to arrange a private contact method **without sharing sensitive details in public**.
 
 Please include a concise description, affected component, how to reproduce the issue safely, and potential impact. Do not test against other users or expose their data.
 
